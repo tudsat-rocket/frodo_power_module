@@ -444,7 +444,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "frodo_power_module.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
