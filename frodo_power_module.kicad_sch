@@ -5410,7 +5410,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 34.29 124.46 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6a617a24-ba83-46e9-a4d4-838e265958cd)
-    (property "Reference" "J1" (at 30.48 124.46 0)
+    (property "Reference" "J7" (at 30.48 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Molex MicroFit 2x3" (at 22.86 121.92 0)
@@ -5431,7 +5431,7 @@
     (instances
       (project "frodo_power_module"
         (path "/afc8cbd3-9ea8-40a2-afae-ed6bd0fe7e6e"
-          (reference "J1") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
     )
