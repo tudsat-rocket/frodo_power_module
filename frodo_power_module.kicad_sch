@@ -7582,12 +7582,12 @@
     (property "Part#" "INA213AIDCKR" (at 135.89 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dac11388-e6ad-4844-8929-73c6451b4b0d))
-    (pin "2" (uuid fbecc9ee-27aa-4cae-8c19-388f576b37d5))
-    (pin "3" (uuid cd3fc492-34a6-4489-8a28-cf1edbcf0e16))
-    (pin "4" (uuid 85ecb8df-e94b-471d-ab77-09356f98f10a))
-    (pin "5" (uuid cc95f227-7133-446b-b5fe-c04ad1e00c8b))
-    (pin "6" (uuid 7663b0ed-7ef6-4298-8a21-4871f68c17b2))
+    (pin "1" (uuid dbea087f-779d-4b5a-b733-d774a3c5dd29))
+    (pin "2" (uuid e1fd6fc2-3069-4332-9559-3e677d482774))
+    (pin "3" (uuid a3ff9b71-9909-41dd-9041-c23f56e2e651))
+    (pin "4" (uuid 53475606-8fc2-4ac7-a8db-965bd8c842c5))
+    (pin "5" (uuid 7faec127-1d12-4eaf-9e95-b30df7a2f567))
+    (pin "6" (uuid 6c25a5b1-cbe6-4e99-99a4-91884b52ddab))
     (instances
       (project "frodo_power_module"
         (path "/afc8cbd3-9ea8-40a2-afae-ed6bd0fe7e6e"
