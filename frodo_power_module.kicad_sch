@@ -3105,6 +3105,15 @@
     (uuid d95d2186-f38c-4ada-89a2-997b9f6bbe2e)
   )
 
+  (label "Net-" (at 45.72 170.18 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 686efe06-d5dc-41da-9e6a-5168f3e7587a)
+  )
+  (label "Net+" (at 45.72 162.56 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ade48327-df5e-469a-bc46-201f4df0fcbe)
+  )
+
   (global_label "CAN-" (shape input) (at 66.04 121.92 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 05738454-dc2d-4a5c-b32d-b6b0f3958b1a)
